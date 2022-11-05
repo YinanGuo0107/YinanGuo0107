@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YinanGuo0107
 - 👀 SEU-EE@21, WFU-BA@22
-- 🌱 Passionate about Data Science/Product Analysis
+- 🌱 Passionate about Data Science / Product Analytics / Product Management
 - 📫 YinanGuo0107@gmail.com / Wechat: guiguigui0107 / Linkedin: https://www.linkedin.com/in/yinanguo/
 
 <!---
